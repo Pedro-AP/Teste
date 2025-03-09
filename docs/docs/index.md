@@ -11,4 +11,4 @@ Este é um trabalho educacional onde criamos um projeto para ilustrar como traba
 
 # Como utilizar o projeto
 
-  Utilize este projeto como referência para criar seus projetos que necessitam de versionamento
+Utilize este projeto como referência para criar seus projetos que necessitam de versionamento

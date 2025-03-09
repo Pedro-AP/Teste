@@ -1,0 +1,5 @@
+site_name: Versionamento de Projetos
+theme: readthedocs
+nav:
+  - Versionamento de Projetos: index.md
+  - Git: git.md
